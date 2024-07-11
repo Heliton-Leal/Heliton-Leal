@@ -6,7 +6,7 @@ Formado em Sistemas de Informação, com ampla experiência em infraestrutura e 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HelitonLeal)
 
 
-![HelitonLeal GitHub stats](https://github-readme-stats.vercel.app/api?username=helitonleal&show_icons=true&theme=dark)
+![HelitonLeal GitHub stats](https://github-readme-stats.vercel.app/api?username=Heliton-Leal&show_icons=true&theme=dark)
 
 
 ## Principais tecnologias do meu dia-a-dia
